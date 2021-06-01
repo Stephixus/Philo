@@ -1,8 +1,5 @@
-## Catégories
+[HLP](#hlp) # HLP - [Philosophie](#philo) # Philosophie
 
-| HLP | Philosophie |
-|---|---|
+[HLP](## Humanités, Littérature, Philosophie.)
 
-## Humanités, Littérature, Philosophie.
-
-## Philosophie
+[Philosophie](## Philosophie)
