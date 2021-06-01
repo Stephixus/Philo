@@ -1,5 +1,5 @@
-[HLP](#hlp) # HLP - [Philosophie](#philo) # Philosophie
+[HLP][] - [Philosophie][]
 
-[HLP](## Humanités, Littérature, Philosophie.)
+## HLP [HLP] ##
 
-[Philosophie](## Philosophie)
+## Philosophie [Philosophie] ##
