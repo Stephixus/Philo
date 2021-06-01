@@ -11,6 +11,7 @@
 ### Structures de cours
 
 ### Textes
-[./textes](etude_de_texte.md)
+
+[Consignes pour l’étude de textes](./textes/etude_de_texte.md)
 
 ### Dissertations
