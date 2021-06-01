@@ -1,4 +1,4 @@
-[HLP](##HLP) - [Philosophie](##Philosophie)
+[🔗 HLP](##HLP) - [🔗 Philosophie](##Philosophie)
 
 ## HLP
 
