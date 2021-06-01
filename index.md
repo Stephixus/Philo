@@ -11,5 +11,6 @@
 ### Structures de cours
 
 ### Textes
+[./textes](etude_de_texte.md)
 
 ### Dissertations
